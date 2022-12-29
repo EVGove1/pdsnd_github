@@ -4,14 +4,14 @@
 The Bikeshare.py project was created on 26th December of 2022.
 
 ### Project Title
-Explore US Bikeshare Data 
+Explore US Bikeshare Data. 
 
 ### Description
-This Project explore a bicycle-sharing system where users are allow to rent bicycles. python script was wrote to help explore the data.
+This Project explore a bicycle-sharing system where users are allow to rent bicycles. python script. was wrote to help explore the data.
 
 ### Files used
-CSV Files that contains statistics from Chicago, Washington and New Yourk City 
+CSV Files that contains statistics from Chicago, Washington and New Yourk City. 
 
 ### Credits
-Kelvin Gove for all the support and Udacity for all materials, easy to understand 
+Kelvin Gove for all the support and Udacity for all materials, easy to understand. 
 
