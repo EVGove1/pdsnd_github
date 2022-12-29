@@ -10,7 +10,7 @@ Explore US Bikeshare Data
 This Project explore a bicycle-sharing system where users are allow to rent bicycles
 
 ### Files used
-CSV Files that contains statistics fromChicago, Washington and New Yourk City 
+CSV Files that contains statistics from Chicago, Washington and New Yourk City 
 
 ### Credits
 Kelvin Gove for all the support and Udacity for all materials, easy to understand 
