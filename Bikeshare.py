@@ -157,11 +157,10 @@ def user_stats(df):
         print('Most common year is not available for this city')
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-# Method to display 5 rows if the user chooses to do so
 
 def display_row_count(df):
     raw_data = input(
-        'Would you like to see first 5 rows of the raw file? Yes or No\n').lower()
+        'Would you like to see first 5 rows of the raw data file? Yes or No\n').lower()
     counter = 0
     while (raw_data.lower() != 'no'):
         counter = counter + 5
@@ -172,7 +171,7 @@ def display_row_count(df):
 
 def main():
     while True:
-        city, month, day = get_filters()
+        city, month, day = get_filters()
         df = load_data(city, month, day)
         time_stats(df)
         station_stats(df)
