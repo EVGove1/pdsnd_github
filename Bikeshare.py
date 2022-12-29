@@ -160,13 +160,13 @@ def user_stats(df):
 
 def display_row_count(df):
     raw_data = input(
-        'Would you like to see first 5 rows of the raw data file? Yes or No\n').lower()
+        'Would you like to see first 6 rows of the raw data file? Yes or No\n').lower()
     counter = 0
     while (raw_data.lower() != 'no'):
-        counter = counter + 5
+        counter = counter + 6
         print(df.head(counter))
         raw_data = input(
-            'Would you like to see more 5 more rows of the raw file? Yes or No\n').lower()
+            'Would you like to see more 6 more rows of the raw file? Yes or No\n').lower()
         print('-'*40)
 
 def main():
